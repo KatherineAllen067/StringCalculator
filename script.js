@@ -1,0 +1,1 @@
+let stringNumbers="8,0,\n1,5";
